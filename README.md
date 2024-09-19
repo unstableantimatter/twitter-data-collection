@@ -1,4 +1,7 @@
-# Python Data Scraping and Visualization Exercises
+# The Polit-shop App - Political Leanings Retail Shopping Recommendation App
+
+
+### To get started we did some Python Data Scraping and Visualization Exercises
 
 Libraries used:
 - sqlite
